@@ -37,4 +37,6 @@ print(toppings);
 toppings.clear();
 print(toppings);
  
+
+Map<String , dynamic> myMap = {'string' : 'string' , 'string2' : 3333 };
 }
